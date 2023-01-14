@@ -3,4 +3,4 @@ My name is Calvin Eng, and I am a second-year student studying Computer Science-
 
 😄 Pronouns: he/him/his
 
-📫 Email: calvineng@brown.edu
+📫 Email: calvin_eng@brown.edu
