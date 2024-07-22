@@ -4,3 +4,5 @@ My name is Calvin Eng, and I am a fourth-year student at Brown University from S
 😄 Pronouns: he/him/his
 
 📫 Email: calvin_eng@brown.edu
+
+🔗 LinkedIn: https://www.linkedin.com/in/calvin-a-eng/
