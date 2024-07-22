@@ -1,5 +1,5 @@
 ### Hey 👋
-My name is Calvin Eng, and I am a third-year student at Brown University, where my academic journey spans Computer Science-Economics and Portuguese and Brazilian Studies. My interests lie in leveraging machine learning and deep learning techniques to unravel complex data and to derive more meaningful insights. Feel free to explore my diverse portfolio of personal projects and collaborative coursework that reflect my exploration of these dynamic disciplines.
+My name is Calvin Eng, and I am a fourth-year student at Brown University from Scottsdale, Arizona. My academic journey spans Computer Science-Economics, Applied Mathematics, and Portuguese and Brazilian Studies. Feel free to explore my portfolio of personal projects and coursework, which reflect my exploration of these dynamic disciplines.
 
 😄 Pronouns: he/him/his
 
